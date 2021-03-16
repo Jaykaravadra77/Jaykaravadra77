@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaykaravadra 
-- 👀 I am interested in Web devlopment.i am instrested in web devlopment via mern stack.
-- 🌱I am currently learning in College Of Agricultural Information Technology
-- 💞️ I am looking for a job in Web devlopment after compleiting study
+- 👀 I want to became a webdevloper.  
+- 🌱I am currently learning in College Of Agricultural Information Technology.
+- 💞️after completing study i  will looking for job in webdevlopment. 
 - 📫 7046410074,6354289735 
 - Email: jaykaravadra77@gmail.com
 
