@@ -17,5 +17,11 @@ I have experience designing backend architecture, building REST and GraphQL APIs
 - **Background Jobs:** Bull, BullMQ
 - **Payments:** Stripe Connect, GoCardless
 
+### 🏆 Certifications
+
+- ☁️ AWS Certified Developer – Associate
+- 🔷 Apollo Graph Developer – Professional
+- 🔷 Apollo Graph Developer – Associate
+
 📍 Ahmedabad, India  
 💼 Backend-focused engineer with full-stack capabilities, open to Backend, MERN Stack, and Full-Stack Developer opportunities.
