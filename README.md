@@ -6,8 +6,10 @@ I specialize in **Node.js, TypeScript, Fastify, GraphQL, MongoDB, Redis, microse
 
 I have experience designing backend architecture, building REST and GraphQL APIs, implementing WebSocket-based real-time systems, integrating payment platforms, and deploying applications in AWS and containerized environments.
 
-### 🔧 What I work with
+### 🛠️ What I work with
+
 - **Backend:** Node.js, TypeScript, Express.js, Fastify
+- **Frontend:** React.js, Redux
 - **APIs:** REST, GraphQL, Apollo Federation, gRPC
 - **Databases & Cache:** MongoDB, MySQL, Redis
 - **Real-time:** Socket.IO, WebSockets, Redis Pub/Sub
