@@ -1,8 +1,8 @@
 # Jay Karavadra
 
-Backend engineer. Node.js, TypeScript, MongoDB, GraphQL, AWS.
+Backend Engineer | Node.js, TypeScript, MERN | AWS Certified Developer
 
-Building APIs, real-time systems, and payment backends. Open to full-time remote Node.js roles.
+I build APIs, real-time systems, and payment backends. Open to full-time remote Node.js backend roles, and to MERN / full-stack Node roles that are backend-heavy.
 
 - [LinkedIn](https://www.linkedin.com/in/jaykaravadra)
 - AWS Certified Developer – Associate
