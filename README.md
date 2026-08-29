@@ -1,11 +1,19 @@
-# Jay Karavadra
+# Hi, I'm Jay Karavadra 👋
 
-Backend Engineer | Node.js, TypeScript, MERN | AWS Certified Developer
+Backend Engineer with **4+ years of experience** building scalable, high-traffic backend systems and APIs.
 
-I build APIs, real-time systems, and payment backends. Open to full-time remote Node.js backend roles, and to MERN / full-stack Node roles that are backend-heavy.
+I specialize in **Node.js, TypeScript, Fastify, GraphQL, MongoDB, Redis, microservices, and real-time applications**.
 
-Daily tools: Cursor (Grok 4.6, Sonnet), Claude Code (Sonnet 5, Opus 5)
+I have experience designing backend architecture, building REST and GraphQL APIs, implementing WebSocket-based real-time systems, integrating payment platforms, and deploying applications in AWS and containerized environments.
 
-- [LinkedIn](https://www.linkedin.com/in/jaykaravadra)
-- AWS Certified Developer – Associate
-- Apollo Graph Developer – Professional
+### 🔧 What I work with
+- **Backend:** Node.js, TypeScript, Express.js, Fastify
+- **APIs:** REST, GraphQL, Apollo Federation, gRPC
+- **Databases & Cache:** MongoDB, MySQL, Redis
+- **Real-time:** Socket.IO, WebSockets, Redis Pub/Sub
+- **Cloud & DevOps:** AWS, Docker, Kubernetes
+- **Background Jobs:** Bull, BullMQ
+- **Payments:** Stripe Connect, GoCardless
+
+📍 Ahmedabad, India  
+💼 Open to remote Backend Engineer opportunities
