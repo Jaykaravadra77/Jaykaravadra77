@@ -19,9 +19,9 @@ I have experience designing backend architecture, building REST and GraphQL APIs
 
 ### 🏆 Certifications
 
-- ☁️ AWS Certified Developer – Associate
-- 🔷 Apollo Graph Developer – Professional
-- 🔷 Apollo Graph Developer – Associate
+- ☁️ [AWS Certified Developer – Associate](https://www.credly.com/users/jay-karavadra/badges)
+- 🔷 [Apollo Graph Developer – Professional](https://www.apollographql.com/tutorials/certifications/c7b87451-5040-4afe-8971-42dae2a3b58f)
+- 🔷 [Apollo Graph Developer – Associate](https://www.apollographql.com/tutorials/certifications/c6fabf4b-2a3c-4ce0-806c-11b7e9ca1778)
 
 📍 Ahmedabad, India  
 💼 Backend-focused engineer with full-stack capabilities, open to Backend, MERN Stack, and Full-Stack Developer opportunities.
