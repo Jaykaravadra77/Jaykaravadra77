@@ -19,7 +19,7 @@ I have experience designing backend architecture, building REST and GraphQL APIs
 
 ### 🏆 Certifications
 
-- ☁️ [AWS Certified Developer – Associate](https://www.credly.com/users/jay-karavadra/badges)
+- ☁️ [AWS Certified Developer – Associate](https://www.credly.com/badges/325eb466-0e47-4040-aac4-a7f920d66bc9/public_url)
 - 🔷 [Apollo Graph Developer – Professional](https://www.apollographql.com/tutorials/certifications/c7b87451-5040-4afe-8971-42dae2a3b58f)
 - 🔷 [Apollo Graph Developer – Associate](https://www.apollographql.com/tutorials/certifications/c6fabf4b-2a3c-4ce0-806c-11b7e9ca1778)
 
