@@ -16,4 +16,4 @@ I have experience designing backend architecture, building REST and GraphQL APIs
 - **Payments:** Stripe Connect, GoCardless
 
 📍 Ahmedabad, India  
-💼 Open to remote Backend Engineer opportunities
+💼 Backend-focused engineer with full-stack capabilities, open to Backend, MERN Stack, and Full-Stack Developer opportunities.
