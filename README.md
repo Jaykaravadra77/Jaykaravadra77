@@ -2,16 +2,19 @@
 
 Backend Engineer with **4+ years of experience** building scalable, high-traffic backend systems and APIs.
 
+> 🚀 Currently learning and actively building in **AI Engineering** — specializing in LLM backends, RAG (Retrieval-Augmented Generation), vector databases, and semantic search.
+
 I specialize in **Node.js, TypeScript, Fastify, GraphQL, MongoDB, Redis, microservices, and real-time applications**.
 
 I have experience designing backend architecture, building REST and GraphQL APIs, implementing WebSocket-based real-time systems, integrating payment platforms, and deploying applications in AWS and containerized environments.
 
 ### 🛠️ What I work with
 
+- **AI & Vector Search (Actively Learning & Building):** RAG architectures, Vector Embeddings, Qdrant, Semantic Search, Prompt Engineering, Gemini / OpenAI APIs
 - **Backend:** Node.js, TypeScript, Express.js, Fastify
 - **Frontend:** React.js, Redux
 - **APIs:** REST, GraphQL, Apollo Federation, gRPC
-- **Databases & Cache:** MongoDB, MySQL, Redis
+- **Databases & Cache:** MongoDB, MySQL, Redis, Qdrant
 - **Real-time:** Socket.IO, WebSockets, Redis Pub/Sub
 - **Cloud & DevOps:** AWS, Docker, Kubernetes
 - **Background Jobs:** Bull, BullMQ
@@ -24,4 +27,4 @@ I have experience designing backend architecture, building REST and GraphQL APIs
 - 🔷 [Apollo Graph Developer – Associate](https://www.apollographql.com/tutorials/certifications/c6fabf4b-2a3c-4ce0-806c-11b7e9ca1778)
 
 📍 Ahmedabad, India  
-💼 Backend-focused engineer with full-stack capabilities, open to Backend, MERN Stack, and Full-Stack Developer opportunities.
+💼 Backend-focused engineer with full-stack capabilities, open to Backend, MERN Stack, Full-Stack, and AI Backend Developer opportunities.
